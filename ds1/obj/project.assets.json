@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gromc\\OneDrive\\Рабочий стол\\ds seminar6\\ds1\\ds1.csproj",
+      "projectUniqueName": "C:\\Users\\gromc\\OneDrive\\Рабочий стол\\ds seminar7\\ds1\\ds1.csproj",
       "projectName": "ds1",
-      "projectPath": "C:\\Users\\gromc\\OneDrive\\Рабочий стол\\ds seminar6\\ds1\\ds1.csproj",
+      "projectPath": "C:\\Users\\gromc\\OneDrive\\Рабочий стол\\ds seminar7\\ds1\\ds1.csproj",
       "packagesPath": "C:\\Users\\gromc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gromc\\OneDrive\\Рабочий стол\\ds seminar6\\ds1\\obj\\",
+      "outputPath": "C:\\Users\\gromc\\OneDrive\\Рабочий стол\\ds seminar7\\ds1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gromc\\AppData\\Roaming\\NuGet\\NuGet.Config"
